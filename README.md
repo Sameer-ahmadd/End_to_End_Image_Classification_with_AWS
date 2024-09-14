@@ -20,7 +20,9 @@
 
 * Deployed the deep learning model using AWS API Gateway and Lambda functions.
 * Tested API endpoints with Postman to verify the accuracy of inference results.
-![Screenshot (10)](https://github.com/user-attachments/assets/c27885c7-b4f4-4e08-a62b-8d972a1ecd3e)
+
+ 
+ ![Screenshot (10)](https://github.com/user-attachments/assets/c27885c7-b4f4-4e08-a62b-8d972a1ecd3e)
 
 
 
@@ -33,4 +35,4 @@
 * Integrated MongoDB for backend data storage and management.
 
 # Demo:
-* Project Demo Video: Explore the complete functionality of the pneumonia detection image classifier in this demo video.
+* Project Demo Video: Explore the complete functionality of the pneumonia detection image classifier in this demo [video](https://github.com/user-attachments/assets/d1e009fd-162c-4f12-bf8e-a866126f4743).
