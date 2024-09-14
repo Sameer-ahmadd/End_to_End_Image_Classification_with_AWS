@@ -16,21 +16,19 @@
 # Model Evaluation:
 * Assessed model performance using Precision, Recall, and F1 Score metrics.
 * Performed thorough evaluation to ensure high accuracy and reliability of the pneumonia detection classifier.
-* Deployment & Integration:
+# Deployment & Integration:
 
-Deployed the deep learning model using AWS API Gateway and Lambda functions.
-Tested API endpoints with Postman to verify the accuracy of inference results.
+* Deployed the deep learning model using AWS API Gateway and Lambda functions.
+* Tested API endpoints with Postman to verify the accuracy of inference results.
 Screenshot:
-Security & Scalability:
 
-Secured endpoints to protect against unauthorized access.
-Implemented autoscaling to manage latency and ensure consistent performance under varying loads.
-Web Application Development:
+# Security & Scalability:
+* Secured endpoints to protect against unauthorized access.
+* Implemented autoscaling to manage latency and ensure consistent performance under varying loads.
 
-Developed a user-friendly interface using React.js, Node.js, and Express.js.
-Integrated MongoDB for backend data storage and management.
-Demo:
+# Web Application Development:
+* Developed a user-friendly interface using React.js, Node.js, and Express.js.
+* Integrated MongoDB for backend data storage and management.
 
-Project Demo Video: Explore the complete functionality of the pneumonia detection image classifier in this demo video.
-Technologies Used: AWS SageMaker, AWS API Gateway, AWS Lambda, React.js, Node.js, Express.js, MongoDB, DigitalOcean, Matplotlib, Seaborn, Pandas, Numpy
-
+# Demo:
+* Project Demo Video: Explore the complete functionality of the pneumonia detection image classifier in this demo video.
