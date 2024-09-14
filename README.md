@@ -20,7 +20,8 @@
 
 * Deployed the deep learning model using AWS API Gateway and Lambda functions.
 * Tested API endpoints with Postman to verify the accuracy of inference results.
-Screenshot:
+![Screenshot (10)](https://github.com/user-attachments/assets/cb2486f0-657d-4e58-bacc-54fb984ae649)
+
 
 # Security & Scalability:
 * Secured endpoints to protect against unauthorized access.
